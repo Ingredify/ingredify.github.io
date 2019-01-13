@@ -18,9 +18,10 @@ h6 {
   font-weight: 700;
 }
 
-header.masthead .button {
- font-size: 40px;
- padding: 40px;
+.btn-primary {
+  font-size: 40px;
+  padding: 40px;
+  border-radius: 50;
 }
 
 header.masthead {
