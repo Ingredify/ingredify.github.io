@@ -18,6 +18,11 @@ h6 {
   font-weight: 700;
 }
 
+header.masthead.button {
+ font-size: 40px;
+ padding: 40px;
+}
+
 header.masthead {
   position: relative;
   background-color: #343a40;
